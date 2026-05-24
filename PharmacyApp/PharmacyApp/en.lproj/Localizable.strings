@@ -1,0 +1,13 @@
+"auth_title" = "Авторизация";
+"email_placeholder" = "Email";
+"password_placeholder" = "Пароль";
+"login_button" = "Вход";
+"register_button" = "Регистрация";
+"logout" = "Выйти";
+"medicines_title" = "Лекарства";
+"detail_title" = "Описание";
+"description_title" = "Описание";
+"composition_title" = "Состав";
+"fill_all_fields" = "Заполните все поля";
+"invalid_credentials" = "Неверный email или пароль";
+"registration_success" = "Регистрация успешна";

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>New item</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Аспирин</string>
+			<key>imageName</key>
+			<string>aspirin</string>
+			<key>description</key>
+			<string>Аспирин - нестероидный противовоспалительный препарат. Используется для снижения температуры, обезболивания и профилактики тромбозов.</string>
+			<key>composition</key>
+			<string>Действующее вещество: Ацетилсалициловая кислота 500 мг. Вспомогательные вещества: целлюлоза микрокристаллическая, крахмал кукурузный.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Парацетамол</string>
+			<key>imageName</key>
+			<string>paracetamol</string>
+			<key>description</key>
+			<string>Парацетамол - анальгетик и антипиретик. Применяется при головной боли, зубной боли, лихорадке.</string>
+			<key>composition</key>
+			<string>Действующее вещество: Парацетамол 500 мг. Вспомогательные вещества: повидон, крахмал картофельный, стеариновая кислота.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Нурофен</string>
+			<key>imageName</key>
+			<string>nurofen</string>
+			<key>description</key>
+			<string>Нурофен - противовоспалительное, обезболивающее, жаропонижающее средство. Помогает при мышечных и суставных болях.</string>
+			<key>composition</key>
+			<string>Действующее вещество: Ибупрофен 200 мг. Вспомогательные вещества: кроскармеллоза натрия, лаурилсульфат натрия, цитрат натрия.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Лоратадин</string>
+			<key>imageName</key>
+			<string>loratadine</string>
+			<key>description</key>
+			<string>Лоратадин - противоаллергическое средство. Устраняет зуд, чихание, насморк при аллергических реакциях.</string>
+			<key>composition</key>
+			<string>Действующее вещество: Лоратадин 10 мг. Вспомогательные вещества: лактоза, крахмал, магния стеарат.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Амоксициллин</string>
+			<key>imageName</key>
+			<string>amoxicillin</string>
+			<key>description</key>
+			<string>Амоксициллин - антибиотик широкого спектра действия. Применяется при бактериальных инфекциях.</string>
+			<key>composition</key>
+			<string>Действующее вещество: Амоксициллин тригидрат 500 мг. Вспомогательные вещества: магния стеарат, тальк.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Но-шпа</string>
+			<key>imageName</key>
+			<string>noshpa</string>
+			<key>description</key>
+			<string>Но-шпа - спазмолитическое средство. Применяется при спазмах гладкой мускулатуры желудочно-кишечного тракта.</string>
+			<key>composition</key>
+			<string>Действующее вещество: Дротаверина гидрохлорид 40 мг. Вспомогательные вещества: магния стеарат, тальк, повидон.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Мезим</string>
+			<key>imageName</key>
+			<string>mezim</string>
+			<key>description</key>
+			<string>Мезим - ферментный препарат. Улучшает пищеварение при недостаточности поджелудочной железы.</string>
+			<key>composition</key>
+			<string>Действующее вещество: Панкреатин. Содержит амилазу, липазу, протеазу.</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Аквадетрим</string>
+			<key>imageName</key>
+			<string>aqua</string>
+			<key>description</key>
+			<string>Аквадетрим - витамин D3. Регулирует обмен кальция и фосфора, необходим для костной системы.</string>
+			<key>composition</key>
+			<string>Действующее вещество: Колекальциферол (витамин D3). Вспомогательные вещества: бензиловый спирт, вода очищенная.</string>
+		</dict>
+	</array>
+</dict>
+</plist>
