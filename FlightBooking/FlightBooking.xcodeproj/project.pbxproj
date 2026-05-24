@@ -7,24 +7,24 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		EB8C88AB2FC339FC0029A8B5 /* FlightBooking.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FlightBooking.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		EB8C89AD2FC35F090029A8B5 /* FlightBooking.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FlightBooking.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		EB8C88C02FC339FD0029A8B5 /* Exceptions for "FlightBooking" folder in "FlightBooking" target */ = {
+		EB8C89C22FC35F0A0029A8B5 /* Exceptions for "FlightBooking" folder in "FlightBooking" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = EB8C88AA2FC339FC0029A8B5 /* FlightBooking */;
+			target = EB8C89AC2FC35F090029A8B5 /* FlightBooking */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		EB8C88AD2FC339FC0029A8B5 /* FlightBooking */ = {
+		EB8C89AF2FC35F090029A8B5 /* FlightBooking */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				EB8C88C02FC339FD0029A8B5 /* Exceptions for "FlightBooking" folder in "FlightBooking" target */,
+				EB8C89C22FC35F0A0029A8B5 /* Exceptions for "FlightBooking" folder in "FlightBooking" target */,
 			);
 			path = FlightBooking;
 			sourceTree = "<group>";
@@ -32,7 +32,7 @@
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		EB8C88A82FC339FC0029A8B5 /* Frameworks */ = {
+		EB8C89AA2FC35F090029A8B5 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -42,18 +42,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		EB8C88A22FC339FC0029A8B5 = {
+		EB8C89A42FC35F090029A8B5 = {
 			isa = PBXGroup;
 			children = (
-				EB8C88AD2FC339FC0029A8B5 /* FlightBooking */,
-				EB8C88AC2FC339FC0029A8B5 /* Products */,
+				EB8C89AF2FC35F090029A8B5 /* FlightBooking */,
+				EB8C89AE2FC35F090029A8B5 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		EB8C88AC2FC339FC0029A8B5 /* Products */ = {
+		EB8C89AE2FC35F090029A8B5 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				EB8C88AB2FC339FC0029A8B5 /* FlightBooking.app */,
+				EB8C89AD2FC35F090029A8B5 /* FlightBooking.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -61,64 +61,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		EB8C88AA2FC339FC0029A8B5 /* FlightBooking */ = {
+		EB8C89AC2FC35F090029A8B5 /* FlightBooking */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = EB8C88C12FC339FD0029A8B5 /* Build configuration list for PBXNativeTarget "FlightBooking" */;
+			buildConfigurationList = EB8C89C32FC35F0A0029A8B5 /* Build configuration list for PBXNativeTarget "FlightBooking" */;
 			buildPhases = (
-				EB8C88A72FC339FC0029A8B5 /* Sources */,
-				EB8C88A82FC339FC0029A8B5 /* Frameworks */,
-				EB8C88A92FC339FC0029A8B5 /* Resources */,
+				EB8C89A92FC35F090029A8B5 /* Sources */,
+				EB8C89AA2FC35F090029A8B5 /* Frameworks */,
+				EB8C89AB2FC35F090029A8B5 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				EB8C88AD2FC339FC0029A8B5 /* FlightBooking */,
+				EB8C89AF2FC35F090029A8B5 /* FlightBooking */,
 			);
 			name = FlightBooking;
 			packageProductDependencies = (
 			);
 			productName = FlightBooking;
-			productReference = EB8C88AB2FC339FC0029A8B5 /* FlightBooking.app */;
+			productReference = EB8C89AD2FC35F090029A8B5 /* FlightBooking.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		EB8C88A32FC339FC0029A8B5 /* Project object */ = {
+		EB8C89A52FC35F090029A8B5 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 2640;
 				LastUpgradeCheck = 2640;
 				TargetAttributes = {
-					EB8C88AA2FC339FC0029A8B5 = {
+					EB8C89AC2FC35F090029A8B5 = {
 						CreatedOnToolsVersion = 26.4.1;
 					};
 				};
 			};
-			buildConfigurationList = EB8C88A62FC339FC0029A8B5 /* Build configuration list for PBXProject "FlightBooking" */;
+			buildConfigurationList = EB8C89A82FC35F090029A8B5 /* Build configuration list for PBXProject "FlightBooking" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = EB8C88A22FC339FC0029A8B5;
+			mainGroup = EB8C89A42FC35F090029A8B5;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = EB8C88AC2FC339FC0029A8B5 /* Products */;
+			productRefGroup = EB8C89AE2FC35F090029A8B5 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				EB8C88AA2FC339FC0029A8B5 /* FlightBooking */,
+				EB8C89AC2FC35F090029A8B5 /* FlightBooking */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		EB8C88A92FC339FC0029A8B5 /* Resources */ = {
+		EB8C89AB2FC35F090029A8B5 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -128,7 +128,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		EB8C88A72FC339FC0029A8B5 /* Sources */ = {
+		EB8C89A92FC35F090029A8B5 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -138,7 +138,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		EB8C88C22FC339FD0029A8B5 /* Debug */ = {
+		EB8C89C42FC35F0A0029A8B5 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -147,9 +147,9 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = FlightBooking/Info.plist;
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Для показа вашего местоположения на карте";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -169,7 +169,7 @@
 			};
 			name = Debug;
 		};
-		EB8C88C32FC339FD0029A8B5 /* Release */ = {
+		EB8C89C52FC35F0A0029A8B5 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -178,9 +178,9 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = FlightBooking/Info.plist;
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Для показа вашего местоположения на карте";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -200,7 +200,7 @@
 			};
 			name = Release;
 		};
-		EB8C88C42FC339FD0029A8B5 /* Debug */ = {
+		EB8C89C62FC35F0A0029A8B5 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -263,7 +263,7 @@
 			};
 			name = Debug;
 		};
-		EB8C88C52FC339FD0029A8B5 /* Release */ = {
+		EB8C89C72FC35F0A0029A8B5 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -322,25 +322,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		EB8C88A62FC339FC0029A8B5 /* Build configuration list for PBXProject "FlightBooking" */ = {
+		EB8C89A82FC35F090029A8B5 /* Build configuration list for PBXProject "FlightBooking" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				EB8C88C42FC339FD0029A8B5 /* Debug */,
-				EB8C88C52FC339FD0029A8B5 /* Release */,
+				EB8C89C62FC35F0A0029A8B5 /* Debug */,
+				EB8C89C72FC35F0A0029A8B5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		EB8C88C12FC339FD0029A8B5 /* Build configuration list for PBXNativeTarget "FlightBooking" */ = {
+		EB8C89C32FC35F0A0029A8B5 /* Build configuration list for PBXNativeTarget "FlightBooking" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				EB8C88C22FC339FD0029A8B5 /* Debug */,
-				EB8C88C32FC339FD0029A8B5 /* Release */,
+				EB8C89C42FC35F0A0029A8B5 /* Debug */,
+				EB8C89C52FC35F0A0029A8B5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = EB8C88A32FC339FC0029A8B5 /* Project object */;
+	rootObject = EB8C89A52FC35F090029A8B5 /* Project object */;
 }
